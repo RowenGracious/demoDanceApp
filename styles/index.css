@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
+  h3 {
+    @apply text-lg;
+  }
+  a {
+    @apply text-blue-600 underline;
+  }
+}
+
+.imgbackground {
+  padding: 25px;
+  background: url(/login/background1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+
+.dashbackground {
+  background: url(/login/dashbackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
