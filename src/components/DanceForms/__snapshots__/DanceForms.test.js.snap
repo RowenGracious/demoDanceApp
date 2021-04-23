@@ -1,0 +1,398 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DanceForms with desired options test 1`] = `
+<div
+  className="grid md:grid-cols-2 lg:grid-cols-3 grid-cols-1 gap-12"
+>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Ballet Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/ballet-dance.jpg"
+      />
+    </div>
+    <div>
+      Ballet dance has its origin from Italy. The term ballet means to “danc...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Kathak Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/kathak-dance.jpg"
+      />
+    </div>
+    <div>
+      In types of Indian Dance, Kathak is one which originated in the north ...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Break Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/break-dance.jpg"
+      />
+    </div>
+    <div>
+      Breakdance also knew as a street dance was originated by Puerto Rican ...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Lion Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/lion-dance.jpg"
+      />
+    </div>
+    <div>
+      The lion dance is the traditional dance form of Chinese culture. In th...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Tap Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/tap-dance.jpg"
+      />
+    </div>
+    <div>
+      In this dance form, one needs to tap the shoes on the wooden floor. Th...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Salsa Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/salsa-dance.jpg"
+      />
+    </div>
+    <div>
+      It will come in another type of western Dance which almost everyone kn...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Waltz Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/waltz-dance.jpg"
+      />
+    </div>
+    <div>
+      The ballroom couple dance performed in closed positions is known as Wa...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Belly Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/belly-dance.jpg"
+      />
+    </div>
+    <div>
+      One of the unique forms of Dance is belly dancing, and it comes under ...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Swing Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/swing-dance.jpg"
+      />
+    </div>
+    <div>
+      Swing, as the name sounds, is a very interesting dance form. It is a g...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Aerial Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/aerial-dance.jpg"
+      />
+    </div>
+    <div>
+      Aerial Dance is slowly becoming very famous these days. This dance for...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Tango Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/tango-dance.jpg"
+      />
+    </div>
+    <div>
+      It is a partner dance originated along with the river Plate during the...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Disco Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/disco-dance.jpg"
+      />
+    </div>
+    <div>
+      Disco dance is a type of dance style that is a musical style dating to...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Fold Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/folk-dance.jpg"
+      />
+    </div>
+    <div>
+      Folk dance is a typical form of Dance that is usually extensively perf...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        BharataNatyam Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/bharata_Natyam_dance.jpg"
+      />
+    </div>
+    <div>
+      Bharatnatyam is an Indian classical dance form having its origin in Ta...
+    </div>
+  </div>
+  <div
+    className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+  >
+    <div
+      className="mb-6"
+    >
+      <div
+        className="font-bold text-lg col-span-4 "
+      >
+        Electronic Dance
+      </div>
+    </div>
+    <div
+      className="mb-6 grid justify-center"
+    >
+      <img
+        animationDuration="1"
+        applyAspectRatio="true"
+        className="w-24 h-24"
+        src="/images/electronic-dance.jpg"
+      />
+    </div>
+    <div>
+      This style of Dance is also known as Electronic Dance Music (EDM). Thi...
+    </div>
+  </div>
+</div>
+`;

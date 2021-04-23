@@ -1,6 +1,7 @@
 import React from 'react';
 import { useFormContext } from 'react-hook-form';
 
+//Reusuable input text component
 const InputText = ({type, label, name, required, pattern, minLength}) => {
   const methods = useFormContext();
   const { register, formState: { errors } } = methods;

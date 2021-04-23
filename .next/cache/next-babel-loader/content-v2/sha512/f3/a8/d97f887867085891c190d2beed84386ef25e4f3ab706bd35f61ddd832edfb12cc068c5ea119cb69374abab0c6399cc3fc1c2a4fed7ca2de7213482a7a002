@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from 'react'; //login page layout\n\nvar PublicLayout = function PublicLayout(_ref) {\n  var children = _ref.children;\n  return /*#__PURE__*/React.createElement(\"div\", {\n    className: \"mx-auto grid gap-4\"\n  }, children);\n};\n\nexport default PublicLayout;","map":null,"metadata":{},"sourceType":"module"}

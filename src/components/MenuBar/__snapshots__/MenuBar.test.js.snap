@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu bar with desired options test 1`] = `
+<nav
+  className="flex items-center flex-wrap p-1 bg-gradient-to-r from-green-400 to-blue-500 text-white"
+>
+  <div
+    className="inline-flex items-center p-2 mr-4 "
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+  >
+    <img
+      className="w-20 h-14 ml-2"
+      src="/logo.png"
+    />
+    <span
+      className="text-xl ml-8 text-white font-bold uppercase tracking-wide"
+    >
+      <h1>
+         Haligonia Dance Academy 
+      </h1>
+    </span>
+  </div>
+  <button
+    className=" inline-flex p-3 hover:bg-green-600 rounded lg:hidden text-white ml-auto hover:text-white outline-none"
+    onClick={[Function]}
+  >
+    <svg
+      className="w-6 h-6"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M4 6h16M4 12h16M4 18h16"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={2}
+      />
+    </svg>
+  </button>
+  <div
+    className="hidden   w-full lg:inline-flex lg:flex-grow lg:w-auto"
+  >
+    <div
+      className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto"
+    />
+  </div>
+</nav>
+`;

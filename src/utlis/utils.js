@@ -1,3 +1,4 @@
+// Dance form Lists
 export const danceFormsLists = [
   {
     id:1111,
@@ -91,16 +92,19 @@ export const danceFormsLists = [
   }
 ];
 
+// User Login Details
 export const userData = {
   emailId: 'joedoe@yopmail.com',
   password: 'JoeDoe@12345'
 };
 
+// Nav items for Landing page
 export const navigation = [
   { name: 'Home', href: '/', current: true },
   { name: 'Login', href: '/login', current: false },
 ]
 
+// Nav items for Dashboard
 export const dashboardNav = [
-  { name: 'Logout', href: '/', current: true },
+  { name: 'Logout', href: '/', current: true, event: true },
 ]

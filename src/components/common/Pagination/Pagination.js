@@ -16,6 +16,7 @@ const useStyles2 = makeStyles({
   },
 });
 
+// Pagination using material design 
 export default function Pagination({rows}) {
   const classes = useStyles2();
   const [page, setPage] = useState(2);

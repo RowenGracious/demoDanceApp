@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DanceForm component test 1`] = `
+<div
+  className="grid justify-center rounded overflow-hidden shadow-lg p-6 text-center "
+>
+  <div
+    className="mb-6"
+  >
+    <div
+      className="font-bold text-lg col-span-4 "
+    >
+      Electronic Dance
+    </div>
+  </div>
+  <div
+    className="mb-6 grid justify-center"
+  >
+    <img
+      animationDuration="1"
+      applyAspectRatio="true"
+      className="w-24 h-24"
+      src="/images/electronic-dance.jpg"
+    />
+  </div>
+  <div>
+    This style of Dance is also known as Electronic Dance Music (EDM). Thi...
+  </div>
+</div>
+`;

@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Single dance form renedered here with description
 const DanceForm = ({ bio, imageSrc, name }) => {
   const imageUrl = `/images/${imageSrc}.jpg`;
 

@@ -3,6 +3,7 @@ import Header from '../Header/Header';
 import Menu from '../MenuBar/MenuBar';
 import Footer from '../Footer/Footer';
 
+//Home page which is not protected layout 
 const LandingLayout = ({ menuItems, children }) => (
   <div>
     <Menu menuItems={menuItems} />
